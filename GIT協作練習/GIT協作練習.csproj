@@ -46,6 +46,9 @@
     <Compile Include="Models\UserModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\funtion.cs" />
+    <Compile Include="Services\implement.cs" />
+    <Compile Include="Services\login.cs" />
     <Compile Include="Services\RegisterService.cs" />
   </ItemGroup>
   <ItemGroup>
