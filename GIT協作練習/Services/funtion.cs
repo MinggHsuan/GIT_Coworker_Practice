@@ -8,7 +8,12 @@ namespace GIT協作練習.Services
 {
     internal class funtion
     {
-        public int number;
-        public string funtionmod;
+        public string account;
+        public string password;
+        public void UseFuntion(string account, string password)
+        {
+            this.account = account;
+            this.password = password;
+        }
     }
 }

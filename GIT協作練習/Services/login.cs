@@ -11,7 +11,7 @@ namespace GIT協作練習.Services
         public int number;
         public string name;
         public string phone;
-        public void LoginModel(int number, string name, string phone)
+        public login(int number, string name, string phone)
         {
             this.number = number;
             this.name = name;
