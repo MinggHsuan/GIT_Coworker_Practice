@@ -1,5 +1,7 @@
-﻿using System;
+﻿using GIT協作練習.Services;
+using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,6 +12,10 @@ namespace GIT協作練習
     {
         static void Main(string[] args)
         {
+            login login = new login(2, "xuan", "0900123456");
+            funtion funtion = new funtion();
+            implement implement = new implement();
+
         }
     }
 }
