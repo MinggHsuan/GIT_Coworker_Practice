@@ -9,7 +9,13 @@ namespace GIT協作練習.Services
     internal class login
     {
         public int number;
-        public int number2;
-        public int number3;
+        public string name;
+        public string phone;
+        public void LoginModel(int number, string name, string phone)
+        {
+            this.number = number;
+            this.name = name;
+            this.phone = phone;
+        }
     }
 }
