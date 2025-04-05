@@ -9,5 +9,6 @@ namespace GIT協作練習.Services
     internal class implement
     {
         public string implemention;
+        public int num;
     }
 }
