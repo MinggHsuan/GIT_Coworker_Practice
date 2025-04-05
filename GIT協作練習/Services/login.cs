@@ -10,5 +10,6 @@ namespace GIT協作練習.Services
     {
         public int number;
         public int number2;
+        public int number3;
     }
 }
