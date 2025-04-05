@@ -15,7 +15,7 @@ namespace GIT協作練習
             login login = new login(2, "leo", "0900123456");
             funtion funtion = new funtion();
             implement implement = new implement();
-
+            login.name = "hsuan";
         }
     }
 }
