@@ -51,6 +51,7 @@
     <Compile Include="Services\implement.cs" />
     <Compile Include="Services\login.cs" />
     <Compile Include="Services\RegisterService.cs" />
+    <Compile Include="Unility\Mail.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
