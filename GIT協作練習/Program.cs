@@ -12,7 +12,7 @@ namespace GIT協作練習
     {
         static void Main(string[] args)
         {
-            login login = new login(2, "xuan", "0900123456");
+            login login = new login(2, "leo", "0900123456");
             funtion funtion = new funtion();
             implement implement = new implement();
 
